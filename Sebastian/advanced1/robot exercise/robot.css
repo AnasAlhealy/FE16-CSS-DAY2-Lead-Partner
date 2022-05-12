@@ -1,52 +1,53 @@
-img {top: 100px;
+img {
   width: 50px;
 }
 #face {
   width: 400px;
 }
 #nose1{
-    width: 90px;
-    position: absolute;
-    left: 15%;
-    top: 180px;
+    width: 130px;
+    position: absolut;
+    left: 50%;
+    top: 240px;
     float: left;
-    z-index: 2;
+    
   }
+  /* 
   #mouth2{
     width: 130px;
     float: left;
-    position: absolute;
+    position: absolut;
     left: 13%;
     top: 320px;
-    z-index: 2;
+    
   }
   #eyes2{
     width: 150px;
-    position: absolute;
+    position: absolut;
     float: left;
     left: 13%;
     top: 145px;
-    z-index: 2;
+   
   }
 #hair2{  
     width: 140px;
     float: left;
-    position: absolute;
+    position: absolut;
     left: 13%;
     top: 300px;
-    z-index: 2;}
+    }
   #hat{
     width: 220px;
     float: left;
-    position: absolute;
+    position: absolut;
     left: 10%;
     top: 0px;
-    z-index: 2;
+    ;
   }
   #ears2{ 
     float: left;
     width: 410px;
-    position: absolute;
+    position: absolut;
     left: 0%;
     top: 130px;
-    z-index: 2;}
+    z-index: 2;} */
