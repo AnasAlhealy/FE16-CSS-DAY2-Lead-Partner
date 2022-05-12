@@ -2,11 +2,30 @@
     width: 800;
     padding-left: 50px;
     padding-right: 50px;
-    /* box-shadow: black; */
-    box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
-    
-
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    box-shadow: 50px 0px 20px 05px rgb(203, 213, 216);
+    font-family: ;
 }
+
 p{color: #707070;}
+
 li{color: #707070}
+
 header{text-align: center;}
+
+h1{color: #DB0038;}
+
+h2{color: #3998A3}
+
+h3{color: #474747}
+
+.hero{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px; 
+}
+.content{}
+
+
