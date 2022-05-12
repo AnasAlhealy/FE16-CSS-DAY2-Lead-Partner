@@ -43,18 +43,32 @@
     
     .left {
         float: left;
-        width: 33%;
+        width: 33.3%;
         background-color: aquamarine;
+        height: 800px;
     }
     
     .middle {
         float: left;
-        width: 33%;
+        width: 33.3%;
         background-color: darkcyan;
+        height: 800px;
     }
     
     .right {
         float: left;
-        width: 33%;
+        width: 33.3%;
         background-color: darkslategrey;
+        height: 800px;
+    }
+    
+    footer {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 5px 0;
+        position: relative;
+        width: 100%;
+        bottom: 0;
+        clear: both;
     }
