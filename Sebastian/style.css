@@ -1,17 +1,21 @@
 .container{
-    width: 800;
+    width: 800px;
     padding-left: 50px;
     padding-right: 50px;
     position: relative;
     left: 50%;
     transform: translate(-50%, 0%);
-    box-shadow: 50px 0px 20px 05px rgb(203, 213, 216);
-    font-family: ;
+    box-shadow: 0px 0px 20px 05px rgb(34, 36, 36);
+    
 }
 
 p{color: #707070;}
 
-li{color: #707070}
+li{
+    color: #707070;
+    padding-top: 5px;
+
+    }
 
 header{text-align: center;}
 
@@ -26,6 +30,16 @@ h3{color: #474747}
     text-align: center;
     padding-bottom: 10px; 
 }
-.content{}
+.rating{color: #F4B400 ;
+        font-size: 25px;
+        text-align: center;}
+
+footer {
+    text-align: center;
+}
+
+body {
+    font-family: 'happy monkey';
+}
 
 
