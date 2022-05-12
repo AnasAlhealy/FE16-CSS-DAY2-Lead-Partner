@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 1%;
+    left: 5px;
+}
+
+.lit {
+    position: relative;
+    float: left;
+    width: 20px;
+    height: 15px;
+}
