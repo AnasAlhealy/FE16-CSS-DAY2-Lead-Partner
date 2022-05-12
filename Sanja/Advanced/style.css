@@ -1,0 +1,22 @@
+.center {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.stick {
+    position: fixed;
+    bottom: 5px;
+    left: 10px;
+}
+
+.copyr {
+    /* position: relative;
+    width: 15px;
+    height: 15px;
+    bottom: 5px;
+    left: 2px; */
+}
