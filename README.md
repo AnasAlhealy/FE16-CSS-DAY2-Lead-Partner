@@ -1,4 +1,4 @@
-# FE16-CSS-DAY2-Lead-Partner
+# FE16-CSS-DAY2-Anas-Sanja-Sebastian
 Basic
 Exercise 1
 
